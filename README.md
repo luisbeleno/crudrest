@@ -1,0 +1,2 @@
+# crudrest
+angular crud poc
